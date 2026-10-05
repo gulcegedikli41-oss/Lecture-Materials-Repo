@@ -1,5 +1,0 @@
-quantity_text = input("Quantity: ")
-quantity = int(quantity_text)
-unit_price = float(input("Unit price: "))
-print(type(quantity_text), type(quantity), type(unit_price))
-print(f"Subtotal: {quantity * unit_price:.2f} TRY")

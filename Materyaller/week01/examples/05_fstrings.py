@@ -1,5 +1,0 @@
-name = input("Your name: ")
-student_id = input("Student ID: ")
-print(f"Student: {name}")
-print(f"ID: {student_id}")
-print(f"Repository folder: week01/{student_id}")
